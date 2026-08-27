@@ -1,5 +1,5 @@
 *This do file adds in Gleditsch and Ward country codes for datasets that identify observations
-*by country name only.  It is accurate to the best of my knowledge, and is updated everytime I
+*by country name only.  It is accurate to the best of my knowledge, and is updated every time I
 *have to add a new spelling.  Please contact me if you find any errors or omissions.
 *Clayton Thyne, University of Kentucky, clayton.thyne@uky.edu
 
