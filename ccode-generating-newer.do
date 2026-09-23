@@ -352,6 +352,9 @@ replace ccode= 775 if country=="Burma (Myanmar)"
 replace ccode= 775 if country=="Burma/Myanmar"
 replace ccode= 565 if country=="Namibia"
 replace ccode= 970 if country=="Nauru"
+replace ccode= 970 if country=="Naoero"
+replace ccode= 970 if country=="The Republic of Naoero"
+replace ccode= 970 if country=="Republic of Naoero"
 replace ccode= 790 if country=="Nepal"
 replace ccode= 210 if country=="Netherlands"
 replace ccode = 210 if country=="Netherland"
@@ -658,4 +661,7 @@ capture replace ccode_gw=815 if country=="Vietnam" & year>=1816 & year<=1893
 *Updated on 05/30/17 w/ some descrepancies between ICOW and G&W (see notes below); (thanks to Brendan Apfeld from Univ of Texas)
 *Updated on 10/13/20 w/ North Macedonia replacing Macedonia; (thanks to Holley Hansen from Oklahoma State)
 *Updated on 06/15/21 w/ "The Gambia" (thanks to Phillip Nelson from Univ of Warwick)
-*Updated on 08/11/26 w/ "Turkiye" and "Czechia" (thanks to Holley Hansen from Oklahoma State)
+
+***Updates from this point are being made by Holley Hansen from Oklahoma State (unless noted otherwise)
+*Updated on 08/11/26 w/ "Turkiye" and "Czechia" 
+*Updated on 9/23/26 w/ "Naoero"/"Republic of Naoero/"The Republic of Naoero"
